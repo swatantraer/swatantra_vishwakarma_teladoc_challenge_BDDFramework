@@ -17,7 +17,7 @@ HTML report with snapshot after execution
    
    git clone https://github.com/swatantraer/BDDFramework.git
    
-![image](https://github.com/swatantraer/BDDFramework/assets/10908901/fe9f8c38-fcfb-49af-a8a5-1f7c590c4272)
+![image](file:///D:/343676866-fe9f8c38-fcfb-49af-a8a5-1f7c590c4272.png)
 
 **2. Now we can see the repository in local system**
 
